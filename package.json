@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "github:hydrabolt/discord.js",
+    "discord.js-commando": "^0.10.0",
     "ffmpeg-binaries": "^3.2.2-3",
     "fs-nextra": "github:bdistin/fs-nextra",
     "giphy-api": "^1.2.7",
