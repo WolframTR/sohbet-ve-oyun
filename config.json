@@ -1,10 +1,10 @@
 {
     "bot": {
-        "token": "",
-        "owner": [""],
-        "name": "Sohbet ve Oyun",
+        "token": "NDcxMzM1NTIwMDk4NzEzNjAw.DjsaIw.1RZwLKmnGPOkY4XDgqx4eixGlgA",
+        "owner": ["274551537139712001"],
+        "name": "Wolfram",
         "year": "2018",
-        "prefix": "svo!",
+        "prefix": "wolf!",
         "version": "v1.0.1"
     },
     "customEmojis": {
